@@ -1,0 +1,27 @@
+[
+  {
+    "key": "hostname",
+    "value": "localhost"
+  },
+  {
+    "key": "grafana-hostname",
+    "value": "localhost"
+  },
+  {
+    "key": "thresholds",
+    "value": {
+      "100High": 120,
+      "100Low": 9.9
+    }
+  },
+  {
+    "key": "admin-users",
+    "value": [
+      "gordonwhite636@gmail.com"
+    ]
+  },
+  {
+    "key": "admin-password",
+    "value": "pass"
+  }
+]
